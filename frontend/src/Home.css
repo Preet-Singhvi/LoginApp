@@ -1,0 +1,32 @@
+.home{
+    padding: 20px;
+    height: 60vh;
+    width:280px;
+    margin: 20px auto;
+}
+.home .header{
+    margin-bottom: 10px;
+}
+.home .header h3{
+    margin: 0px;
+    
+}
+.home .image{
+    margin-left:80px;
+    width: 100px;
+    /* display: flex; */
+}
+.home .image img{
+    position: relative;
+    border-radius: 60%;
+    height:15vh;
+    width: 90px;
+    margin: 10px;
+    border: 1px black;
+}
+.home .field{
+    margin: 5px 0;
+}
+.home .enter{
+    margin: 10px 0;
+}

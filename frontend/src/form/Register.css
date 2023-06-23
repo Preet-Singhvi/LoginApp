@@ -1,0 +1,27 @@
+.register{
+    padding: 20px;
+    height: 70vh;
+    width:280px;
+    margin: 20px auto;
+    
+}
+.register .lock{
+    background-color: rgb(71, 134, 216);
+}
+.register h2{
+    margin: 10px;
+}
+.register .field{
+    margin: 1vh;
+    
+}
+.register button{
+    margin: 10px 0;
+}
+.register .link{
+    text-align: center;
+    margin: 6px;
+}
+.register .link:hover{
+    cursor: pointer;
+}
